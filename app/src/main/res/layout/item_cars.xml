@@ -8,7 +8,7 @@
     android:orientation="vertical">
 
     <ImageView
-        android:id="@+id/imgCarPhoto"
+        android:id="@+id/imgCars"
         android:layout_width="0dp"
         android:layout_height="270dp"
         android:scaleType="centerCrop"
@@ -56,10 +56,10 @@
         app:layout_constraintEnd_toEndOf="@+id/tvTitle"
         app:layout_constraintStart_toStartOf="@+id/tvTitle"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle"
-        tools:text="26 January 2000 15:11" />
+        tools:text="29 November 2017 15:11" />
 
     <TextView
-        android:id="@+id/tvDetails"
+        android:id="@+id/tvIngress"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
